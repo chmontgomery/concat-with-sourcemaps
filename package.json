@@ -18,7 +18,7 @@
   "author": "Florian Reiterer <me@florianreiterer.com>",
   "license": "ISC",
   "dependencies": {
-    "source-map": "^0.1.34"
+    "source-map": "git://github.com/chmontgomery/source-map.git#feature/fix-typeerror"
   },
   "devDependencies": {
     "jshint": "^2.5.0",
